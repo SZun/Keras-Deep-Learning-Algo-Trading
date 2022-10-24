@@ -1,3 +1,9 @@
+# FXCM
+fxcm.cfg
+
+# OANDA
+oanda.cfg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
