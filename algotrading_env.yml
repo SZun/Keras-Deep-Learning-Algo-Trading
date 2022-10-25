@@ -1,0 +1,10 @@
+name: algotradingenv
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - fxcmpy
+  - scikit-learn
+  - keras
